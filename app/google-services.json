@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817558166603",
+    "project_id": "chrisna-chat-aja",
+    "storage_bucket": "chrisna-chat-aja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817558166603:android:20f2f721c04e7664adc1ce",
+        "android_client_info": {
+          "package_name": "com.example.chatappchrinsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817558166603-69se6t6kmuukiren0rljmhq8dh9bsna6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAytDkv3MLVPC8543ECaa1fKsZax1-DPX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817558166603-69se6t6kmuukiren0rljmhq8dh9bsna6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
